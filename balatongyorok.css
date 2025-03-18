@@ -1,0 +1,71 @@
+body{
+    background-image: url(back.jpg);
+    background-size: cover;   
+}
+#alap{
+    width: 1000px;
+    margin: 0 auto;
+}
+img{
+    max-width: 1000px;
+    min-width: 450px;
+}
+#header{
+    max-width: 1000px;
+    min-width: 650px;
+    background-image: url(panorama.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kilato{
+    background-color: #5B9CEA;
+    width: 450px;
+    padding: 10px 20px;
+}
+#head{
+    display: flex;
+    max-width: 150px;
+    min-width: 65px;
+    margin-left: auto;
+    padding: 20px;
+    margin-right: 30px;
+    margin-top: -100px ;
+}
+#k1{
+    float: left;
+}
+#k2{
+   float: right;
+}
+.h2{
+    text-align: left;
+}
+table { 
+    background: #B0D1F1; 
+}
+table, td, th { 
+    border: 1px solid black;
+    border-collapse: collapse;  
+}
+th { 
+    text-align: center; 
+}
+td { 
+    padding: 5px; 
+    width: 50%; 
+}
+
+.forr{
+    text-align: left;
+    justify-content: left;
+}
+h1{
+    text-align: left;
+    justify-content: left;
+    padding: 20px;
+}
+.p{
+    font-weight: bold;
+    font-size: 17px;
+}
